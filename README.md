@@ -1,2 +1,12 @@
-# LTK-lua-luau-decompiler-
-A project i made which is meant for decompiling lua 4.0-5.5 and every luau version. (NOT the source code)
+# LTK - Lua Tool Kit
+
+a project i made with my other friend for decompiling lua and luau into fully readable and runnable source code.
+
+# examples:
+
+input: https://github.com/ASDFH43GXDGWEG/LTK-lua-luau-decompiler-/blob/main/input.luau
+output: https://github.com/ASDFH43GXDGWEG/LTK-lua-luau-decompiler-/blob/main/decompiled.luau
+
+selling the source code for it 
+min price: 250$
+(discord): @beeatomic
